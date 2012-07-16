@@ -1,8 +1,8 @@
 # parallaxBG
 
 ## Description
-Scrolls the `body` background image slower than the other content, creating a parallax effect.
-Tested on Chrome 18, Firefox 11, and Internet Explorer 9.
+Scrolls the `<body>` background image slower than the other content, creating a parallax effect.
+Tested on Chrome 20, Firefox 13, and Internet Explorer 9.
 
 Open example.html for example usage.
 
